@@ -12,7 +12,7 @@
     --cor02:#83e1ad;
     --cor03:#3ddc84;
     --cor04:#1a5c37;
-    --cor05:#a80f82;
+    --cor05:#063d1e;
 
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
     --fonte-destaque: 'Bebas Neue', 'cursive';
@@ -167,7 +167,7 @@ aside p{
 aside ul{
     list-style-type:'\2714\00A0\00A0';
     list-style-position: inside;
-    columns:2;
+    columns: 2;
     padding-left: 30px;
 }
 
